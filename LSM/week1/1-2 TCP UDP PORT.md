@@ -5,7 +5,7 @@
   - 전송 계층(Transport Layer) - TCP, UDP
   - 인터넷 계층 - IP
   - 네트워크 인터페이스 계층
-  ![Untitled](1-2/Untitled.png)
+    ![Untitled](image/Untitled.png)
 - TCP/IP 패킷
   - IP 패킷 - 출발지 IP, 목적지 IP, 기타…
   - TCP 세그먼트 - 출발지 PORT, 목적지 PORT, 전송 제어, 순서, 검증 정보…
@@ -28,7 +28,7 @@
     - HTTP - 80
     - HTTPS - 443
 - DNS(Domain Name System)
-  | Domain Name     | IP            |
+  | Domain Name | IP |
   | --------------- | ------------- |
   | abc.example.com | 200.300.249.8 |
-  | www.naver.com   | 293.484.32.45 |
+  | www.naver.com | 293.484.32.45 |

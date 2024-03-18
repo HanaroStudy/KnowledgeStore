@@ -28,8 +28,8 @@
     - Accept-charset : 클라이언트가 선호하는 문자 인코딩
     - Accept-Encoding : 클라이언트가 선호하는 압축 인코딩
     - Accept-Language : 클라이언트가 선호하는 자연 언어
-    ![Untitled](image/151.png)
-    ![Untitled](1-5%20HTTP%20%E1%84%92%E1%85%A6%E1%84%83%E1%85%A5%202c15dfd283344ff6b1e4befe9fdb6311/Untitled%201.png)
+      ![Untitled](image/151.png)
+      ![Untitled](image/152.png)
   - 협상과 우선순위
     ```jsx
     GET /event
